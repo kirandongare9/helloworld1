@@ -1,1 +1,8 @@
-"public static void main(){ }" 
+
+public class hello{
+	public static void main(){ 
+
+		System.out.println("hello from java");
+	}
+
+}
